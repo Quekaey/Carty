@@ -1,0 +1,11 @@
+{
+  "name": "carty",
+  "version": "1.0.0",
+  "description": "ecommerce",
+  "main": "backend/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "que",
+  "license": "ISC"
+}
